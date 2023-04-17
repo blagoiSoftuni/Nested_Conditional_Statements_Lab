@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace _13._Trade_Commissions
+namespace _12._Trade_Commissions
 {
     internal class Program
     {
